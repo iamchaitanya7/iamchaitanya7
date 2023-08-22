@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Gawali Patil</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Machine+Learning.;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Machine+Learning.;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
 </p>
 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=iamchaitanya7&icon=2&color=2)](https://visitcount.itsvg.in)
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchaitanya7&label=Profile%20views&color=0e75b6&style=flat" alt="iamchaitanya7" /> </p>  
 
 ## - About me 🔭
 <br> 
