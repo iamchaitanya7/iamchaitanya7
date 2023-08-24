@@ -20,6 +20,7 @@ class iamchaitanya7:
       '- 👨‍💻 My projects available at' : 'https://github.com/iamchaitanya7',
       '- 📄 Know about my experiences': 'https://read.cv/chaitanyagawalipatil',
       '- 📫 How to reach me' :  'chaitanyagawalipatil@gmail.com'
+      '- 🎯 Portfolio website: [Portfolio](https://iamchaitanya7.github.io/personal_portfolio/)
     }
 
 if __name__ == '__main__':
