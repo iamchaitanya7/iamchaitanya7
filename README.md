@@ -1,222 +1,305 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Gawali Patil</h1>
-<p align="center">
 
+<div align="center">
+
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/QdYVeDStxnrvfpmvef/giphy.gif">
+<img align="center" alt="zerotwo-pic" height="135" style="border-radius:50px;" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif">
+
+
+## Hi, I am Chaitanya.😊
+## Skills : Data Science | Machine Learning | Deep Learning | Android | Web Development
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Machine+Learning.;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
 </p>
+    
+</div>
 
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchaitanya7&label=Profile%20views&color=0e75b6&style=flat" alt="iamchaitanya7" /> </p>  
-
-## - About me 🔭
-<br> 
-
-```python
-class iamchaitanya7:
-  def __init__(self):
-    self.bio = {
-      '- 🌱 I’m currently learning'   : ['Machine learning', 'Deep learning', 'Django', 'Flask'],
-      '- 💬 Ask me anything'          : '¯\_(ツ)_/¯',
-      '- 👨‍💻 My projects available at' : 'https://github.com/iamchaitanya7',
-      '- 📄 Know about my experiences': 'https://read.cv/chaitanyagawalipatil',
-      '- 📫 How to reach me' :  'chaitanyagawalipatil@gmail.com'
-      '- 🎯 Portfolio website: 'https://iamchaitanya7.github.io/portfolio_dev/'
-    }
-
-if __name__ == '__main__':
-  import pprint
-  pprint.pprint(iamchaitanya7().__dict__)
-```
-<br>
-
-## - Socials 🌐
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chaitanya.gawali.patil.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaitanya_gawali_patil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-gawali-patil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@chaitanyagawalipatil) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamchaitanya_7) 
-
-
-## - Technologies/Tools 🔗
-
+<div align='center'>
+    
+## ⚡ Languages
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C" />
       <br>C
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="68" height="68" alt="Cpp" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="55" height="55" alt="Cpp" />
       <br>Cpp
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="45" height="45" alt="Kotlin" />
-      <br>Kotlin
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="icon" width="55" height="55" />
+      <br>Python  
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="css" />
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="55" height="55" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" alt="icon" width="55" height="55" />
+      <br>Latex
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/355152/oracle.svg" width="45" height="45" alt="oracle" />
-      <br>Oracle
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-      <br>WordPress
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="rails" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="rails" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="rails" />
-      <br>Flask
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
-      <br>SQLite
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg" width="50" height="45" alt="canva" />
-      <br>Canva
-     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="68" height="68" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/306534/pandas.svg" width="45" height="45" alt="pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/354127/numpy.svg" width="45" height="45" alt="numpy" />
-      <br>NumPy
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="Figma" />
-      <br>Tensorflow
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/306292/keras.svg" width="45" height="45" alt="Keras" />
-      <br>Keras
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="pytorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png?2018080806205" width="45" height="45" alt="Scikitlearn" />
-      <br>Sci-Kit Learn
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.svgrepo.com/show/353851/hadoop.svg" width="45" height="45" alt="hadoop" />
-      <br>Hadoop
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" alt="icon" width="55" height="55" />
+      <br>Markdown
     </td>
   </tr>
 </table>
 
+## ⭐ Frameworks, Platforms & Libraries
+<table>
+<tr>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="55" height="55" alt="Android" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" width="55" height="55" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="55" height="55" alt="Apache Spark" />
+      <br>PySpark
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.svgrepo.com/show/353851/hadoop.svg" width="55" height="55" alt="Apache Hadoop" />
+      <br>Hadoop
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55" alt="oracle" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" width="55" height="55" alt="Apache Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="90">
+      <img src="https://hive.apache.org/images/hive.svg" width="55" height="55" alt="Apache Hive" />
+      <br>Hive 
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="icon" width="55" height="55" alt="Django"/>
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="55" height="55" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="55" height="55" alt="jupyternotebook" />
+      <br>Notebook
+  </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="55" height="55" alt="pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="icon" width="55" height="55" />
+      <br>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="55" height="55" alt="Scikitlearn" />
+      <br>Sci-Kit Learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55" alt="Figma" />
+      <br>Tensorflow
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.svgrepo.com/show/306292/keras.svg" width="55" height="55" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="55" height="55" alt="matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="90">
+      <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="55" height="55" alt="seaborn" />
+      <br>Seaborn
+    </td>
+    <td align="center" width="90">
+      <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="55" height="55" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Dark.svg" width="55" height="55" alt="OpenCV" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="55" height="55" alt="TailwindCSS" />
+      <br>TailwindCSS
+    </td>  
+  </tr>
+  
+  <tr>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="icon" width="55" height="55" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" width="55" height="55" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="55" height="55" alt="React" />
+      <br>React
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="55" height="55" alt="NodeJS" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="55" height="55" alt="MaterialUI" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="55" height="55" alt="Figma" />
+      <br>Figma
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
+      <br>Flutter
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dart" width="55" height="55" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="55" height="55" alt="wordpress" />
+      <br>Wordpress
+     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="bootstrap" />
+      <br>Bootstrap
+     </td>
+  </tr>  
+</table>
+    
+## 🔭 Database/Tools
+<table>
+ <tr>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="55" height="55" alt="postgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="55" height="55" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="55" height="55" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.svgrepo.com/show/355152/oracle.svg" width="55" height="55" alt="oracle" />
+      <br>Oracle
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" width="55" height="55" alt="GCP" />
+      <br>GCP
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="55" height="55" alt="AWS" />
+      <br>AWS
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="55" height="55" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" width="55" height="55" alt="PowerBi" />
+      <br>PowerBI
+     </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55" height="55" alt="tableau" />
+      <br>Tableau
+     </td>
+  </tr>
+</table>
 
 
+## 📊 Hosting/Version Control
+<table>
+ <tr>
+    <td align="center" width="90">
+      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="icon" width="55" height="55" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="55" height="55" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="55" height="55" alt="Git" />
+      <br>Git
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="55" height="55" alt="github" />
+      <br>Github
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" width="55" height="55" alt="gitlab" />
+      <br>Gitlab
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" width="55" height="55" alt="github actions" />
+      <br>Github Actions
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" width="55" height="55" alt="Heroku" />
+      <br>Heroku
+    </td>
+     
+  </tr>
+</table>
 
-## - Stats ⚡️
-![](https://github-readme-stats.vercel.app/api?username=iamchaitanya7&theme=merko&hide_border=false&show_icons=true&locale=en&count_private=true")<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamchaitanya7&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchaitanya7&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ 
+ </div>
+<div align="center">
 
-## - Random Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=iamchaitanya7&include_all_commits=true&count_private=true&show_icons=true&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> &nbsp; &nbsp;
+<img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamchaitanya7&layout=compact&langs_count=7&theme=tokyonight&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"/>
+   
 
-## - Random Dev Meme 😂
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  
+#
+
+  #### ✨ Hello there! Welcome to my profile! I'm a Computer Science student :)👾 I have a passion for creating and learning new things.🌠 Currently studying Machine Learing & AI.🧑🏻‍💻 Thanks for stopping by, see you around! 😊
+  
+  
+  #
+ <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
+ 
+
+[<img src='https://github.com/Nishant2116/Nishant2116/blob/c5ffe6604261938017356acac2a78ca372087bef/.github/workflows/1298743_github_git_logo_social_icon.png' alt='github' height='40'>](https://github.com/iamchaitanya7) &nbsp; [<img src='https://github.com/Nishant2116/Nishant2116/blob/e20eea6b0bb7b1165e8536f6bc6387b7cf7d7e5d/.github/workflows/5296501_linkedin_network_linkedin%20logo_icon.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/chaitanyagawalipatil/) &nbsp;
+[<img src='https://github.com/Nishant2116/Nishant2116/blob/23fd4f57e1c99cee4fd5911d7c143bee40a9111a/.github/workflows/5296765_camera_instagram_instagram%20logo_icon.png' alt='instagram' height='40'>](https://www.instagram.com/chaitanya_gawali_patil/)&nbsp;
+[<img src='https://github.com/Nishant2116/Nishant2116/blob/4dd52a3e9db54414826a7d5fc3deecabfaaa33e8/.github/workflows/5296514_bird_tweet_twitter_twitter%20logo_icon.png' alt='twitter' height='40'>](https://twitter.com/iamchaitanya_7)
+ 
+</div>
+<div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamchaitanya7&label=Profile%20views&color=0e75b6&style=flat" alt="iamchaitanya7" /> </p>  
+</div>
