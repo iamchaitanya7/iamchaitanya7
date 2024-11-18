@@ -7,10 +7,10 @@
 
 
 ## Hi, I am Chaitanya.😊
-## Skills : Data Science | Machine Learning | Deep Learning | Android | Web Development
+## Skills : Data Science | Machine Learning | Java Development | Web Development
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Machine+Learning.;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=16&center=true&vCenter=true&width=485&lines=Just+a+novice.+Still+got+a+lot+to+learn.;Machine+Learning.;Java+Development.;Loves+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Just a novice. Still got a lot to learn." />
 </p>
     
 </div>
@@ -95,12 +95,12 @@
       <br>Hive 
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="icon" width="55" height="55" alt="Django"/>
-      <br>Django
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Hibernate-Dark.svg" alt="icon" width="55" height="55" alt="Hibernate"/>
+      <br>Hibernate
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="55" height="55" alt="Flask" />
-      <br>Flask
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width="55" height="55" alt="Spring" />
+      <br>Spring
     </td>
     <td align="center" width="90">
       <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="55" height="55" alt="jupyternotebook" />
@@ -288,7 +288,7 @@
   
 #
 
-  #### ✨ Hello there! Welcome to my profile! I'm a Computer Science student :)👾 I have a passion for creating and learning new things.🌠 Currently studying Machine Learing & AI.🧑🏻‍💻 Thanks for stopping by, see you around! 😊
+  #### ✨ Hello there! Welcome to my profile! I'm a Computer Science student :)👾 I have a passion for creating and learning new things.🌠 Currently exploring Hibernate & Springboot.🧑🏻‍💻 Thanks for stopping by, see you around! 😊
   
   
   #
