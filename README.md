@@ -9,7 +9,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> नमस्ते (Namaste), I am [Chaitanya Gawali](https://www.linkedin.com/in/chaitanyagawali/) - a Full Stack Developer and Data Science Enthusiast, passionate about building scalable web solutions and AI-driven applications.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=21&pause=900&color=BB6FF7&center=true&vCenter=true&width=435&lines=Hello+World+!%F0%9F%8C%8E;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+Duniya+!%F0%9F%8C%8E;Hallo+Welt+!%F0%9F%8C%8E;Ciao+mondo+!%F0%9F%8C%8E;Hola+Mundo+!%F0%9F%8C%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=900&color=BB6FF7&center=true&vCenter=true&width=435&lines=Hello+World+!%F0%9F%8C%8E;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+Duniya+!%F0%9F%8C%8E;Hallo+Welt+!%F0%9F%8C%8E;Ciao+mondo+!%F0%9F%8C%8E;Hola+Mundo+!%F0%9F%8C%8E)](https://git.io/typing-svg)
 
 
 <!-- Tech Stack -->
