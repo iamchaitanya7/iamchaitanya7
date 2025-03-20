@@ -1,12 +1,13 @@
 <!-- Header -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&font=Poppins&color=gradient&text=🙏नमस्ते%20(Namaste),%20I%20am%20Chaitanya%20Gawali%20-%20a%20Full%20Stack%20Developer%20and%20Data%20Science%20Enthusiast,-nl-%20passionate%20about%20building%20scalable%20web%20solutions%20and%20AI-driven%20applications.&fontSize=19&textBg=false&descSize=19&fontAlign=50&descAlign=50&descAlignY=63&animation=fadeIn&section=header&reversal=false"/>
-</p>
+
 
 <div align="center">
 
 <!-- Opening -->
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> नमस्ते (Namaste), I am [Chaitanya Gawali](https://www.linkedin.com/in/chaitanyagawali/) - a Full Stack Developer and Data Science Enthusiast, passionate about building scalable web solutions and AI-driven applications.
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=21&pause=900&color=BB6FF7&center=true&vCenter=true&width=435&lines=Hello+World+!%F0%9F%8C%8E;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+Duniya+!%F0%9F%8C%8E;Hallo+Welt+!%F0%9F%8C%8E;Ciao+mondo+!%F0%9F%8C%8E;Hola+Mundo+!%F0%9F%8C%8E)](https://git.io/typing-svg)
 
@@ -39,9 +40,7 @@
 
 <!-- Intro  -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=✨%20Hello%20there!%20Welcome%20to%20my%20profile!%20I'm%20a%20Computer%20Science%20graduate%20:)👾-nl-%20I%20have%20a%20passion%20for%20creating%20and%20learning%20new%20things.🌠-nl-%20Currently%20exploring%20Springboot%20and%20Hibernate.🧑🏻‍💻%20Thanks%20for%20stopping%20by,%20see%20you%20around!%20😊&fontSize=19&descSize=0&descAlign=0&fontAlignY=45&animation=fadeIn&textBg=false&descAlignY=0"/>
-</p>
+### ✨ Hello there! Welcome to my profile! I'm a Computer Science graduate :)👾 I have a passion for creating and learning new things.🌠 Currently exploring Springboot & Hibernate.🧑🏻‍💻 Thanks for stopping by, see you around! 😊
 
 <!-- Connect With Me -->
 
